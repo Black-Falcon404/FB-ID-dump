@@ -33,7 +33,7 @@ def generate_token(data):
 def get_credentials():
     clear()
     print('     --- Generate Facebook Access Token ---')
-    print('           --- Author: @Proxy07 ---\n')
+    print('           --- Author: Falcon ---\n')
     try:
         username = str(input(style.GREEN('[+]') + style.RESET(' Facebook email: ')))
     except KeyboardInterrupt:
