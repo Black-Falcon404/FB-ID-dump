@@ -13,8 +13,8 @@ id-dump 2020
 - FB-ID_Dump uses a public generated API key and API secret for Facebook Graph API v.1.0 which generates a personal private user token that allows you to get all kind of information about Facebook friends even if they mark their data as 'Only Me'.
 
 # Installation
-- 
-- cd FB-ID_Dump
+- https://github.com/Black-Falcon404/FB-ID-dump.git
+- cd FB-ID-Dump
 - python3 -m pip install -r requirements.txt
 - python3 FB-ID_Dump.py
 
