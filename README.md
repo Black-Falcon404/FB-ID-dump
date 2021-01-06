@@ -22,7 +22,7 @@ id-dump 2020
 # Warnings
 - Only use this program for educational purposes only as I am not responsible for any damage caused by this program or you'r actions.
 - Dont abuse and overuse this program as it might temporary lock your Facebook account because of 'Suspicious Activity', and will ask you to verify that the account is yours.
-- All requests being made from FacebookHunter are for the Facebook's Graph API and no third parties will be able to view your email and password.
+- All requests being made from FB-ID-dump are for the Facebook's Graph API and no third parties will be able to view your email and password.
 
 
 # Contributors
