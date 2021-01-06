@@ -14,7 +14,7 @@ def dump_ids():
         date = datetime.now().strftime("%H:%M:%S")
         time = datetime.now().strftime("%d/%m/%Y")
         print("     --- Dump All Friends ID's ---")
-        print('        --- Author: @Proxy07 ---\n')
+        print('        --- Author: FALCON ---\n')
         try:
             with open('lib/cache/facebook_token.txt', 'r') as file:
                 token = file.read()
